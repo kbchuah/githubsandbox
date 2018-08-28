@@ -5,7 +5,7 @@
 <html>
   <body>
     <h1>
-      Hello World Test
+      Hello World Test KB
     </h1>
   </body>
 </html>
